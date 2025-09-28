@@ -1,11 +1,10 @@
 # Rede de sensores - Agromaker
 ## Objetivos do Projeto
-- [ ] Criação de um terrário para monitoramento wireless de dados
-- [ ] Utilizar o ESP32 como transmissão Wi-fi (Protocolo MQTT)
-- [ ] Sensores a serem utilizados:
+- [ ] Construir um terrário para monitorar as seguintes informações:
      - [ ] Temperatura e umidade interna
      - [ ] Umidade do solo
      - [ ] Temperatura externa
      - [ ] Luminosidade interna
-- [ ] Criação de uma página web para exibição em tempo real
+- [ ] Coletar e transmitir os dados via Wi-fi com ESP32 (Protocolo MQTT)
+- [ ] Criar uma página web para exibir as informações
 - [ ] Conectar o sistema a uma placa solar para funcionar de modo autônomo
