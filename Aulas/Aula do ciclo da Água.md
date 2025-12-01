@@ -39,15 +39,15 @@ Esses tipos de aplicações permitem que um conteúdo que muitas vezes é aprend
 
 ### Instruções:
 
-1º passo: Aula explicativa sobre o ciclo da água. Explicação de cada etapa: condensação, precipitação, evaporação, sublimação, infiltração e transpiração.
+- 1º passo: Aula explicativa sobre o ciclo da água. Explicação de cada etapa: condensação, precipitação, evaporação, sublimação, infiltração e transpiração.
 
-2º passo: Introdução dos alunos ao terrário mostrando o funcionamento dele, seus tipos de sensores e suas utilidades na aplicação daquela matéria.
+- 2º passo: Introdução dos alunos ao terrário mostrando o funcionamento dele, seus tipos de sensores e suas utilidades na aplicação daquela matéria.
 
-3º passo: Aplicação prática do terrário- mostrar aos alunos a simulação das diferentes etapas do ciclo da água.
+- 3º passo: Aplicação prática do terrário- mostrar aos alunos a simulação das diferentes etapas do ciclo da água.
 
-4º passo: Criação de um roteiro para os alunos analisarem o que está acontecendo no terrário e tirarem suas conclusões.
+- 4º passo: Criação de um roteiro para os alunos analisarem o que está acontecendo no terrário e tirarem suas conclusões.
 
-5º passo: Discussão sobre o'que foi aprendido na aula, como foi o aprendizado usando o terrário.
+- 5º passo: Discussão sobre o'que foi aprendido na aula, como foi o aprendizado usando o terrário.
 
 
 _____________________________________________________________________________________
