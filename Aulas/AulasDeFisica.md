@@ -52,23 +52,25 @@ O carrinho seguidor de linha será utilizado como um recurso didático central p
 - 2° passo: Introdução ao carrinho seguidor de linha, mostrando seu funcionamento, sua lógica, uso de sensores, e a aplicabilidade dele no estudo daquela matéria. 
 - 3° passo: Aplicação prática do seguidor de linha:
 
-	#### Experimento 1- medir tempo e deslocamento para identificar MRU ou MRUV.
+#### Experimento 1- medir tempo e deslocamento para identificar MRU ou MRUV.
 
-	O carrinho irá percorrer uma linha totalmente reta, e os alunos vão marcar pontos( a cada 10 cm, por exemplo). Cada grupo vai cronometrar o tempo que o carrinho vai levar pra passar de cada marca e esses dados devem ser anotados em uma tabela.
-	Com essas informações, consegue-se fazer os cálculos da velocidade média, identificar visualmente qual o tipo de movimento, e construir gráficos com as medidas anotadas e calculadas.
+O carrinho irá percorrer uma linha totalmente reta, e os alunos vão marcar pontos( a cada 10 cm, por exemplo). Cada grupo vai cronometrar o tempo que o carrinho vai levar pra passar de cada marca e esses dados devem ser anotados em uma tabela.
+	
+Com essas informações, consegue-se fazer os cálculos da velocidade média, identificar visualmente qual o tipo de movimento, e construir gráficos com as medidas anotadas e calculadas.
 
 
 
 #### Experimento 2- Aplicação de leis de newton
 
-Neste experimento, o carrinho deve ser testado com diferentes pesos para ver sua influência na velocidade do carrinho. Depois deve-se alterar a superfície(lisa/lixa) onde o carrinho anda para ver efeitos de atrito. Por último, deve-se comparar o tempo total e a velocidade média do carrinho em cada caso
+Neste experimento, o carrinho deve ser testado com diferentes pesos para ver sua influência na velocidade do carrinho. Depois deve-se alterar a superfície(lisa/lixa) onde o carrinho anda para ver efeitos de atrito. Por último, deve-se comparar o tempo total e a velocidade média do carrinho em cada caso.
+
 Com esse experimento, os alunos devem ver que o aumento da massa muda a inércia(primeira lei de Newton), e consequentemente a aceleração diminui. Além disso, o aumento do atrito, faz com que a força resultante seja menor e a velocidade diminua. Todas essas aplicações podem ser relacionadas com a segunda lei de Newton.
 
 
 - 4º passo: Criação de um roteiro para os alunos analisarem o que está acontecendo com o carrinho e tirarem suas conclusões de como cada ação interfere em seu movimento.
 - 5º passo: Discussão sobre o que foi aprendido na aula, como foi o aprendizado usando o carrinho seguidor de linha.
 
-_____________________________________________________________________________________
+---
 
 ## Referências:
 - **https://www.youtube.com/watch?v=l_Alt7PGKjs**
