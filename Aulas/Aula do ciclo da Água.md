@@ -30,7 +30,7 @@ Esses tipos de aplicações permitem que um conteúdo que muitas vezes é aprend
 
 Instruções:
 
-	1º passo: Aula explicativa sobre o ciclo da água. Explicação de cada etapa: condensação, precipitação, evaporação, sublimação, infiltração e transpiração.
+1º passo: Aula explicativa sobre o ciclo da água. Explicação de cada etapa: condensação, precipitação, evaporação, sublimação, infiltração e transpiração.
 
 2º passo: Introdução dos alunos ao terrário mostrando o funcionamento dele, seus tipos de sensores e suas utilidades na aplicação daquela matéria.
 
@@ -41,7 +41,10 @@ Instruções:
 
 _____________________________________________________________________________________
 Referências:
+
 Construindo um terrário: o que podemos ensinar? - Ponto Biologia
+
 https://www.todamateria.com.br/ciclo-da-agua/ 
+
 "Aprendendo Biologia com Terrários: Ecossistemas em Ação" - Planejamentos de Aula - BNCC
 O uso do terrário na sala de aula como ferramenta didática no ensino de biologia para aluno do ensino médio, no instituto federal de educação do Piauí, Campus Floriano (PI) / The use of terrary in the classroom as a teaching tool in biology teaching for high school students, at the federal institute of education in Piauí, Campus Floriano (PI) | Brazilian Journal of Development
