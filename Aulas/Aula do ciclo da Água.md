@@ -14,8 +14,11 @@ Site do terrário: Graphs - CoIIoTe
 Aula Expositiva do Ciclo da Água utilizando o terrário
 
 Objetivo: 
+
 Observar o ciclo da água em um sistema fechado, como o terrário. 
+
 Compreender as etapas e processos do ciclo hidrológico(condensação, evaporação, precipitação,etc).
+
 Observar as consequências do comportamento humano nesse ciclo.
 
 
